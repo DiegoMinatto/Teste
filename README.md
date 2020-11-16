@@ -1,1 +1,1 @@
-<center><b><h1>Oia os html da vida</h1></b></center>
+<b><h1 align="center">Oia os html da vida</h1></b>
